@@ -2,90 +2,112 @@
   "stores": [
     {
       "name": "Office test",
+      "region": "Test",
       "active": true
     },
     {
       "name": "International Plaza",
-      "active": true
-    },
-    {
-      "name": "Edikted Bullring",
+      "region": "US",
       "active": true
     },
     {
       "name": "Edikted Garden State Plaza",
+      "region": "US",
       "active": true
     },
     {
       "name": "Edikted Green Hills",
+      "region": "US",
       "active": true
     },
     {
       "name": "Edikted Stonebriar",
+      "region": "US",
       "active": true
     },
     {
       "name": "Lincoln",
+      "region": "US",
       "active": true
     },
     {
       "name": "Fifth Avenue",
+      "region": "US",
       "active": true
     },
     {
       "name": "Aventura",
+      "region": "US",
       "active": true
     },
     {
       "name": "Oakbrook",
+      "region": "US",
       "active": true
     },
     {
       "name": "Galleria",
-      "active": true
-    },
-    {
-      "name": "Carnaby",
+      "region": "US",
       "active": true
     },
     {
       "name": "Americana",
+      "region": "US",
       "active": true
     },
     {
       "name": "Tysons Corner",
+      "region": "US",
       "active": true
     },
     {
       "name": "Roosevelt",
+      "region": "US",
       "active": true
     },
     {
       "name": "SOHO",
+      "region": "US",
       "active": true
     },
     {
       "name": "Fashion Valley",
+      "region": "US",
       "active": true
     },
     {
       "name": "Irvine Spectrum",
+      "region": "US",
       "active": true
     },
     {
       "name": "King of Prussia",
+      "region": "US",
       "active": true
     },
     {
       "name": "The Grove",
+      "region": "US",
       "active": true
     },
     {
       "name": "Mall of America",
+      "region": "US",
       "active": true
     },
     {
       "name": "Boca Raton",
+      "region": "US",
+      "active": true
+    },
+    {
+      "name": "Edikted Bullring",
+      "region": "UK",
+      "active": true
+    },
+    {
+      "name": "Carnaby",
+      "region": "UK",
       "active": true
     }
   ],
