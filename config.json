@@ -1,0 +1,15 @@
+{
+  "stores": [
+    { "name": "Office test", "code": "TEST01", "active": true },
+    { "name": "Haifa Grand Canyon", "code": "HFA01", "active": true }
+  ],
+  "post_url": "",
+  "post_headers": {},
+  "epc_prefix": "E",
+  "sku_len": 13,
+  "extra_skus": [],
+  "store_change_pin": "",
+  "rfid": {
+    "power": 30
+  }
+}
