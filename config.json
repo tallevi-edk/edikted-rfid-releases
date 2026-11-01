@@ -1,7 +1,93 @@
 {
   "stores": [
-    { "name": "Office test", "code": "TEST01", "active": true },
-    { "name": "Haifa Grand Canyon", "code": "HFA01", "active": true }
+    {
+      "name": "Office test",
+      "active": true
+    },
+    {
+      "name": "International Plaza",
+      "active": true
+    },
+    {
+      "name": "Edikted Bullring",
+      "active": true
+    },
+    {
+      "name": "Edikted Garden State Plaza",
+      "active": true
+    },
+    {
+      "name": "Edikted Green Hills",
+      "active": true
+    },
+    {
+      "name": "Edikted Stonebriar",
+      "active": true
+    },
+    {
+      "name": "Lincoln",
+      "active": true
+    },
+    {
+      "name": "Fifth Avenue",
+      "active": true
+    },
+    {
+      "name": "Aventura",
+      "active": true
+    },
+    {
+      "name": "Oakbrook",
+      "active": true
+    },
+    {
+      "name": "Galleria",
+      "active": true
+    },
+    {
+      "name": "Carnaby",
+      "active": true
+    },
+    {
+      "name": "Americana",
+      "active": true
+    },
+    {
+      "name": "Tysons Corner",
+      "active": true
+    },
+    {
+      "name": "Roosevelt",
+      "active": true
+    },
+    {
+      "name": "SOHO",
+      "active": true
+    },
+    {
+      "name": "Fashion Valley",
+      "active": true
+    },
+    {
+      "name": "Irvine Spectrum",
+      "active": true
+    },
+    {
+      "name": "King of Prussia",
+      "active": true
+    },
+    {
+      "name": "The Grove",
+      "active": true
+    },
+    {
+      "name": "Mall of America",
+      "active": true
+    },
+    {
+      "name": "Boca Raton",
+      "active": true
+    }
   ],
   "post_url": "",
   "post_headers": {},
