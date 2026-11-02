@@ -111,7 +111,7 @@
       "active": true
     }
   ],
-  "post_url": "",
+  "post_url": "https://edikted-scan-sync.base44.app/functions/rfidSessions",
   "post_headers": {},
   "epc_prefix": "E",
   "sku_len": 13,
